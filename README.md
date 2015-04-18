@@ -3,7 +3,7 @@
 Kuku-Kube.com Awesome 1k Prank
 =================
 
-Maybe  you know about Kuku Kube, If you don't, it's a game that you need to tap on a tail with different color. you can play it in link bellow:
+Maybe  you know about Kuku Kube, If you don't, it's a game that you need to tap on a tile with different color. you can play it in link bellow:
 
 >[http://kuku-kube.com/ ](http://kuku-kube.com/)
 
@@ -66,7 +66,7 @@ it's a 10k score with 1miliseconds interval
 
 Extra
 --------
-it's a project just for fun. keep it fun and enjoy it and use it on your own risk! I don't accept any responsiblity if your friends punch you in the face after they understood about the cheat.
+it's a project just for fun. keep it fun and enjoy it and use it on your own risk! I don't accept any responsiblity if your friends after they understood about the cheat punch you in the face .
 
 
 
