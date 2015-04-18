@@ -66,7 +66,7 @@ it's a 10k score with 1miliseconds interval
 
 Extra
 --------
-it's a project just for fun. keep it fun and enjoy it and use it on your own risk! I don't accept any responsiblity if your friends after they understood about the cheat punch you in the face .
+it's a project just for fun. keep it fun and enjoy it and use it on your own risk! I don't accept any responsiblity if your friends after they understood about the cheat punch you in the face or any other kind of damage/loss.
 
 
 
