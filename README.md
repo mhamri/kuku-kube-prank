@@ -27,16 +27,21 @@ There is two way to use it: Mouse/Keyboard
 **Keyboard**
 
 : There are plenty of keybind that you can use. just note that all key bind is lower case.
+
+> - **w**
+
+>       same as right click. it will play the game one time
+
 > - **a**
 
 >	by clicking **'a'** button on your keyboard you will set a interval to solve the puzzle. it will automatically start to play with the interval that you set in **intrVal** variable. The play interval will be fixed.
 >- **x** or **. (dot) in numpad**
 
->	you will run awesome function. this function start based on the value that you set in **intrVal**, and repeat number of time that you set in **repeatNo** , after that, it will increase the game speed based on the value that you set in **steps** (decrease the interval based on the **steps**) and repeat again until it reach to an interval less than **limitIntrval**. when it reach to the limit, it will set the interval to the limit and will not change it until the game finish.
+>	it will run awesome function. this function start based on the value that you set in **intrVal**, and repeat number of time that you set in **repeatNo** , after that, it will increase the game speed based on the value that you set in **steps** (decrease the interval based on the **steps**) and repeat again until it reach to an interval less than **limitIntrval**. when it reach to the limit, it will set the interval to the limit and will not change it until the game finish.
 
 >- **d** or **s** 
 
->	you stop the auto or awesome function
+>	it will stop the auto or awesome function
 
 -----------------------
 
@@ -61,7 +66,7 @@ it's a 10k score with 1miliseconds interval
 
 Extra
 --------
-it's a project just for fun. keep it fun and enjoy it and use it on your own risk! I don't accept any responsiblity if your friends punched in you in the face after they understood about the cheat.
+it's a project just for fun. keep it fun and enjoy it and use it on your own risk! I don't accept any responsiblity if your friends punch you in the face after they understood about the cheat.
 
 
 
