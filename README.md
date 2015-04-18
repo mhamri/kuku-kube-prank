@@ -20,19 +20,23 @@ Usage
 
 There is two way to use it: Mouse/Keyboard
 
-Mouse
+**Mouse**
 
-: ATM the only key to use is **right click**. with right click you will get one score and you will see the next puzzle. The good thing about this feature is that you can play right in front of your friends and when they play it doesn't work the same way.
+ ATM the only key to use is **right click**. with right click you will get one score and you will see the next puzzle. The good thing about this feature is that you can play right in front of your friends and when they play it doesn't work the same way.
 
-Keyboard
+**Keyboard**
 
 : There are plenty of keybind that you can use. just note that all key bind is lower case.
-> - **a** 
-	> by clicking **'a'** button on your keyboard you will set a interval to solve the puzzle. it will automatically start to play with the interval that you set in **intrVal** variable. The play interval will be fixed.
-	- **x** or **. (dot) in numpad**
-	> you will run awesome function. this function start based on the value that you set in **intrVal**, and repeat number of time that you set in **repeatNo** , after that, it will increase the game speed based on the value that you set in **steps** (decrease the interval based on the **steps**) and repeat again until it reach to an interval less than **limitIntrval**. when it reach to the limit, it will set the interval to the limit and will not change it until the game finish.
-	- **d** or **s** 
-	>you stop the auto or awesome function
+> - **a**
+
+>	by clicking **'a'** button on your keyboard you will set a interval to solve the puzzle. it will automatically start to play with the interval that you set in **intrVal** variable. The play interval will be fixed.
+>- **x** or **. (dot) in numpad**
+
+>	you will run awesome function. this function start based on the value that you set in **intrVal**, and repeat number of time that you set in **repeatNo** , after that, it will increase the game speed based on the value that you set in **steps** (decrease the interval based on the **steps**) and repeat again until it reach to an interval less than **limitIntrval**. when it reach to the limit, it will set the interval to the limit and will not change it until the game finish.
+
+>- **d** or **s** 
+
+>	you stop the auto or awesome function
 
 -----------------------
 
@@ -47,6 +51,18 @@ There are four variables ATM that let you change the experience of the auto / aw
 - **limitIntrval** : is the minimum interval in milliseconds that awesome function will reach to it and will not pass it.
 
 - **repeatNo** :  the number of time to solve the game with  **intrVal** interval, after that decrease the interval with amount of **steps**
+
+Proof
+------
+it's a 10k score with 1miliseconds interval
+
+![10k score in kuku-kube.com](https://drive.google.com/uc?id=0B6-EFvM-Pvk8YXhybUxvV0FzQ00)
+
+
+Extra
+--------
+it's a project just for fun. keep it fun and enjoy it and use it on your own risk! I don't accept any responsiblity if your friends punched in you in the face after they understood about the cheat.
+
 
 
 ---------------------------------------------
