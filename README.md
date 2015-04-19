@@ -71,8 +71,8 @@ it's a project just for fun. keep it fun and enjoy it and use it on your own ris
 
 this page viewed by:
 
+[![hit counter](http://counter6.statcounterfree.com/private/freecounterstat.php?c=5d9041d8f61d43a97c7ba682998c5015)](http://www.freecounterstat.com)
 
-![hit counter](http://counter6.statcounterfree.com/private/freecounterstat.php?c=5d9041d8f61d43a97c7ba682998c5015)
 
 
 ---------------------------------------------
